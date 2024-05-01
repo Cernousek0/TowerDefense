@@ -4,7 +4,6 @@ Tower defense game. dostal jsem tlak do hlavy ze si udelam hru v unity, zasranej
 
 ## Credits
 
-- **Indie Development** [Martin Černý](https://github.com/Cernousek0)
 - **ZMRD CO TO POKAZIL** [NAV MESH]()
   
 
